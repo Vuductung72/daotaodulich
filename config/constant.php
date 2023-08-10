@@ -1,0 +1,52 @@
+<?php
+
+return [
+    'user_no_image' => "/images/avatar-mac-dinh.png",
+    'no_image' => "/images/no_image.png",
+    'logo' => "/images/logo-atm.webp",
+    'logo_footer' => "images/logo-atm-nobackground.png",
+    'logo_admin' => "images/logo-atm-nobackground.png",
+
+    'page_description' => "Đào tạo kiến thức về các ngành nghề du lịch, nhà hàng, khách sạn",
+    'page_description_introduce' => "Giới thiệu tổng quan về ATM",
+    'page_description_contact' => "Thông tin liên hệ ATM",
+    'page_description_login' => "Đăng nhập ATM - ACADEMY dành cho học viên",
+    'page_description_register' => "Đăng ký tài khoản trên ATM - ACADEMY",
+    'page_description_course' => "Danh sách các khóa học tại ATM - ACADEMY",
+    'page_description_select' => "Chọn chuyên gia đồng hành trong khóa học",
+    'page_description_expert' => "Thông tin danh sách các chuyên gia ATM - ACADEMY",
+    'page_description_expert_detail' => "Thông tin chuyên gia",
+    'page_description_category' => "Những tin tức mới nhất của ATM - ACADEMY",
+    'page_description_internship' => "Những tin thực tập của các công ty liên kết với ATM - ACADEMY",
+    'page_description_internship_detail' => "Đăng thông tin tuyển dụng mới dành cho nhà tuyển dụng",
+    'page_description_customer_login' => "Trang đăng nhập dành cho chuyên gia, nhà tuyển dụng trên hệ thống ATM - ACADEMY",
+    'page_description_customer_register' => "Trang đăng ký tài khoản dành cho chuyên gia, nhà tuyển dụng trên hệ thống ATM - ACADEMY",
+    
+    
+    'page_keywords' => "Đào tạo nghiệp vụ lễ tân, đào tạo nghiệp vụ nhà hàng, đào tạo nghiệp vụ khách sạn, đào tạo bếp",
+    'page_keywords_introduce' => "giới thiệu atm",
+    'page_keywords_contact' => "liên hệ atm",
+    'page_keywords_login' => "đăng nhập atm",
+    'page_keywords_register' => "đăng ký tài khoản atm",
+    'page_keywords_course' => "khóa học nhà hàng, khóa học bếp, khóa học lễ tân khách sạn, khóa học buồng phòng khách sạn",
+    'page_keywords_select' => "chọn chuyên gia đồng hành",
+    'page_keywords_expert' => "chuyên gia atm",
+    'page_keywords_expert_detail' => "thông tin chuyên gia",
+    'page_keywords_category' => "tin tức",
+    'page_keywords_internship' => "tin thực tập",
+    'page_keywords_internship_detail' => "tin thực tập",
+    'page_keywords_customer_login' => "đăng nhập chuyên gia, đăng nhập nhà tuyển dụng",
+    'page_keywords_customer_register' => "đăng ký chuyên gia, đăng ký nhà tuyển dụng",
+
+
+    'page_images' => "/images/logo-atm.webp",
+    'page_images_introduce' => "/images/logo-atm.webp",
+    'page_images_contact' => "/images/logo-atm.webp",
+    'page_images_login' => "/images/logo-atm.webp",
+    'page_images_register' => "/images/logo-atm.webp",
+    'page_images_course' => "/images/logo-atm.webp",
+    'page_images_select' => "/images/logo-atm.webp",
+    'page_images_expert' => "/images/logo-atm.webp",
+    'page_images_category' => "/images/logo-atm.webp",
+    'page_images_internship' => "/images/logo-atm.webp",
+];

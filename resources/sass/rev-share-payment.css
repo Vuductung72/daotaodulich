@@ -1,0 +1,51 @@
+.padding-label {
+  padding-top: 6px;
+}
+
+.remove-border-input {
+  border: 0 !important;
+  background-color: unset !important;
+}
+
+.boxes {
+  padding-left: 20px;
+  /*Checkboxes styles*/
+}
+.boxes input[type=checkbox] {
+  display: none;
+}
+.boxes input[type=checkbox] + label {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 20px;
+  font: 14px/20px;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+.boxes input[type=checkbox] + label:last-child {
+  margin-bottom: 0;
+}
+.boxes input[type=checkbox] + label:before {
+  content: "";
+  display: block;
+  width: 20px;
+  height: 20px;
+  border: 1px solid #6cc0e5;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transition: all 0.12s, border-color 0.08s;
+}
+.boxes input[type=checkbox]:checked + label:before {
+  width: 10px;
+  top: -5px;
+  left: 5px;
+  border: 1px solid #078205;
+  border-radius: 0;
+  border-top-color: transparent;
+  border-left-color: transparent;
+  transform: rotate(45deg);
+}/*# sourceMappingURL=rev-share-payment.css.map */
